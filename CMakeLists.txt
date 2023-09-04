@@ -3,4 +3,4 @@ project(primer)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(primer structures/main.cpp)
+add_executable(primer switches/main.cpp)
