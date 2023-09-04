@@ -3,4 +3,4 @@ project(primer)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(primer unsafe/main.cpp unsafe/main.cpp)
+add_executable(primer smart/main.cpp)
