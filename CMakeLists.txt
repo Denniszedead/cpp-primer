@@ -3,4 +3,4 @@ project(primer)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(primer templates/main.cpp)
+add_executable(primer headers/main.cpp headers/wheel.h headers/wheel.cpp headers/car.h headers/trailer.h)
